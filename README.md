@@ -1,4 +1,4 @@
-# 0523-tw
+# HowBridge Logistics
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-0523-tw is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://0523.tw/
+好運器台灣集運報關平台：淘寶、拼多多、1688、抖音等大陸電商購物集運寄台灣，海雜櫃每公斤 NT$25 起或每材積 NT$150 起（依商品詢問客服報價）、海快 NT$50/單位、空運 NT$100/kg，普特貨同價、合包免費、366 天免費倉儲。AEO 認證合作報關行、EZWay 實名認證與申報確認協助、TFDA/BSMI 商品檢驗輔助，報關清關一站搞定，14 語言客服。
+
+**Areas:** Logistics · Shipping · Freight · Taiwan · E-commerce
+
+## HowBridge Logistics on APIs.io
+
+Everything profiled for HowBridge Logistics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/0523-tw/](https://apis.io/providers/0523-tw/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [HowBridge Public MCP](https://apis.io/apis/0523-tw/howbridge-public-mcp/) — Public read‑only JSON‑RPC API providing logistics and customs calculation skills for HowBridge.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [0523 Tw Authentication](https://apis.io/security/0523-tw/0523-tw-authentication/)
+- [0523 Tw Domain Security](https://apis.io/security/0523-tw/0523-tw-domain-security/)
+- [0523 Tw Vulnerability Disclosure](https://apis.io/security/0523-tw/0523-tw-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [0523 Tw Plans Pricing](https://apis.io/plans/0523-tw/0523-tw-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [0523 Tw Rate Limits](https://apis.io/rate-limits/0523-tw/0523-tw-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://0523.tw/)
+- [Documentation](https://0523.tw/developers)
+- [Getting started](https://0523.tw/developers)
+- [API reference](https://0523.tw/developers)
+- [Pricing](https://0523.tw/pricing)
+- [Sign up](https://0523.tw/register)
+- [Support](https://0523.tw/contact)
+- [Terms of service](https://0523.tw/legal/terms)
+- [Privacy policy](https://0523.tw/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 31.2** — thin · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 29.5 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 44.7 |
+
+**Agent readiness 8.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/0523-tw/](https://apis.io/providers/0523-tw/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HowBridge Logistics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/0523-tw/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
