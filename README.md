@@ -66,7 +66,7 @@
 
 好運器台灣集運報關平台：淘寶、拼多多、1688、抖音等大陸電商購物集運寄台灣，海雜櫃每公斤 NT$25 起或每材積 NT$150 起（依商品詢問客服報價）、海快 NT$50/單位、空運 NT$100/kg，普特貨同價、合包免費、366 天免費倉儲。AEO 認證合作報關行、EZWay 實名認證與申報確認協助、TFDA/BSMI 商品檢驗輔助，報關清關一站搞定，14 語言客服。
 
-**Areas:** Logistics · Shipping · Freight · Taiwan · E-commerce
+**Areas:** Logistics · Shipping · Freight · Taiwan · E-Commerce
 
 ## HowBridge Logistics on APIs.io
 
@@ -84,21 +84,21 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [0523 Tw Authentication](https://apis.io/security/0523-tw/0523-tw-authentication/)
-- [0523 Tw Domain Security](https://apis.io/security/0523-tw/0523-tw-domain-security/)
-- [0523 Tw Vulnerability Disclosure](https://apis.io/security/0523-tw/0523-tw-vulnerability-disclosure/)
+- [HowBridge Logistics Authentication](https://apis.io/security/0523-tw/0523-tw-authentication/)
+- [HowBridge Logistics Domain Security](https://apis.io/security/0523-tw/0523-tw-domain-security/)
+- [HowBridge Logistics Vulnerability Disclosure](https://apis.io/security/0523-tw/0523-tw-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [0523 Tw Plans Pricing](https://apis.io/plans/0523-tw/0523-tw-plans-pricing/)
+- [HowBridge Logistics Plans Pricing](https://apis.io/plans/0523-tw/0523-tw-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [0523 Tw Rate Limits](https://apis.io/rate-limits/0523-tw/0523-tw-rate-limits/)
+- [HowBridge Logistics Rate Limits](https://apis.io/rate-limits/0523-tw/0523-tw-rate-limits/)
 
 ## Where to find this API
 
@@ -116,25 +116,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 31.2** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 32.6** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 58.9 |
+| Discoverability | 66.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 29.5 |
+| Operational transparency | 28.6 |
 | Developer ergonomics | 54.8 |
-| Access clarity | 44.7 |
+| Access clarity | 48.9 |
 
-**Agent readiness 8.1** — agent-aware
+**Agent readiness 4.9** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -152,6 +152,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
 
